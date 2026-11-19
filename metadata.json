@@ -1,0 +1,6 @@
+{
+  "name": "ChessClass Studio",
+  "description": "Ứng dụng tương tác giảng dạy cờ vua cho học sinh tiểu học (Khối 1 – Khối 5) tối ưu máy chiếu, tích hợp bàn cờ thông minh, Cái cân công lý, sổ tích điểm và trình tạo phiếu bài tập in A4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
